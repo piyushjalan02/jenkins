@@ -10,6 +10,7 @@ Jenkins Master Server
 URL:- http://example.com:9999/
 JNLP Port:- 7072
 
+
 Slave (Where xcode is installed and running.)
 Local mac Machine(192.168.1.98)
 Working Directory :- /var/jenkins
